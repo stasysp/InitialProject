@@ -4,6 +4,7 @@
 #include <queue>
 #include <map>
 #include <mutex>
+#include <string>
 
 class MessagesQueue;
 
@@ -51,4 +52,4 @@ private:
 
 
 
-#endif //HIGHLOADCUP_MESSAGESQUEUE_H
+#endif // HIGHLOADCUP_MESSAGESQUEUE_H
